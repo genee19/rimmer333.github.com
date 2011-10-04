@@ -1,0 +1,21 @@
+div#container{
+  margin: 1em;
+}
+  div#container header{
+    font-size: 1.25em;
+  }
+    div#main {
+      min-width: 600px;
+      margin-left: -1em;
+    }
+      div#main header{
+        font-size: 1em;
+      }
+      div#main div {
+        float: left;
+        width: 48%;
+        margin: 0 1%;
+      }
+        div#main div textarea{
+          width: 90%;
+        }
