@@ -5,7 +5,7 @@
 
 #jquery
 yepnope 
-  test: jQuery of window
+  test: 'jQuery' of window
   nope: 'https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js'
   callback: (url, had_jQuery)->
     window.jQuery.noConflict() unless had_jQuery
