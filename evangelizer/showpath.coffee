@@ -23,9 +23,3 @@ yepnope
       container = $('<div class="evangelizer-ecp-path"></div>').appendTo '.footer-version'
 
     container.text text
-
-
-
-
-
-
